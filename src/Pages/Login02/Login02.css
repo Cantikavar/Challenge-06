@@ -1,0 +1,130 @@
+.Pict-car {
+    background-color: #0D28A6; 
+}
+.container-login {
+    position: absolute;
+    width: 545px;
+    height: 590px;
+    left: 728px;
+    top: 7px;
+    background: #FFFFFF;
+    font-family: 'Helvetica';
+    font-style: normal;
+}
+
+.container-startlogin {
+    margin-top: 85px;
+    margin-left: 70px;
+}
+
+
+.from-email {
+    margin-top: 30px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+
+}
+
+.control-email{
+    position: absolute;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    width: 300px;
+    height: 30px;
+    margin-left: -39px;
+    margin-top: 25px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #A5A5A5;
+    
+}
+
+.form-password {
+    margin-top: 55px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 20px;
+    color: #222222;
+    
+}
+
+.control-password {
+    position: absolute;
+    background: #FFFFFF;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 2px;
+    width: 300px;
+    height: 30px;
+    margin-left: -65px;
+    margin-top: 25px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #A5A5A5;
+}
+
+.button-sign{
+position: absolute;
+width: 308px;
+height: 36px;
+background: #0D28A6;
+color: #FFFFFF;
+margin-left: -5px;
+
+}
+
+.Account-Sign {
+    margin-left: 25px;
+    margin-top: 2px;
+}
+
+.Account {
+    margin-top: 30px;
+    width: 200px;
+    height: 20px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.SignUp {
+    position: absolute;
+    width: 106px;
+    height: 20px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    text-decoration-line: underline;
+    color: #0D28A6;
+    margin-left: 175px;
+    margin-top: -34px;
+    
+}
+
+.button-google {
+    margin-top: 5px;
+    width: 100px;
+    margin-left: 28px;
+}
+
+.or-google{
+    margin-left: 140px;
+    margin-top: 40px;
+}

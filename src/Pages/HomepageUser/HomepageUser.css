@@ -1,0 +1,160 @@
+/* NAVBAR DEFAULT */
+.container-dashboard01 {
+  position: absolute;
+  width: 1440px;
+  height: 500px;
+  left: 0px;
+  top: 0px;
+  background: #f1f3ff;
+}
+
+.container-content {
+  margin-left: 150px;
+  margin-top: 110px;
+  width: 1000px;
+}
+
+.btn-Register {
+  margin-left: 25px;
+}
+
+.container-content h1 {
+  width: 568px;
+  height: 108px;
+  left: 136px;
+  top: 177px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 150%;
+}
+
+.container-content p {
+  position: absolute;
+  width: 468px;
+  height: 60px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+  margin-top: 130px;
+}
+
+.logoCar {
+  width: 100vh;
+  margin-top: -440px;
+  width: 640px;
+  margin-left: -20px;
+}
+
+.container-content-car {
+  margin-left: 735px;
+  margin-top: -260px;
+  position: absolute;
+  width: 704px;
+  height: 407px;
+}
+
+.btn-register {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 12px;
+  position: static;
+  width: 81px;
+  height: 36px;
+  left: 359px;
+  top: 0px;
+  background: #5cb85f;
+  border-radius: 2px;
+  flex: none;
+  order: 4;
+  flex-grow: 0;
+  margin: 0px 32px;
+  color: white;
+}
+
+.btn-register p {
+  margin-top: 17px;
+}
+
+/* FOOTER DEFAULT */
+.Footer-Container01 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+  padding: 0px;
+  gap: 86px;
+  position: absolute;
+  width: 300px;
+  height: 128px;
+  left: 220px;
+  top: 720px;
+}
+
+.footer-content101 ul {
+  list-style: none;
+  line-height: 30px;
+  color: #000000;
+  margin-top: -150px;
+  margin-left: -100px;
+  width: 300px;
+}
+
+.footer-content2 ul {
+  list-style: none;
+  margin-right: 750px;
+  margin-top: -150px;
+  margin-left: 5px;
+}
+
+.footer-content3 {
+  text-align: center;
+  padding-right: 80;
+  position: absolute;
+  width: 268px;
+  height: 20px;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+  margin-left: 500px;
+  margin-top: -150px;
+}
+.footer-content3 ul {
+  list-style: none;
+  font-size: small;
+  line-height: 50px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  gap: 2px;
+}
+
+.footer-content3 img {
+  height: 20px;
+  width: 20px;
+  margin-left: 50px;
+  margin: 2px 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.footer-content4 {
+  position: absolute;
+  width: 268px;
+  font-family: Helvetica;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+  margin-left: 900px;
+  margin-top: -150px;
+}

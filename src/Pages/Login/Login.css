@@ -1,0 +1,119 @@
+.Pict-car {
+  background-color: #0d28a6;
+}
+.container-login {
+  position: absolute;
+  width: 545px;
+  height: 590px;
+  left: 728px;
+  top: 7px;
+  background: #ffffff;
+  font-family: "Helvetica";
+  font-style: normal;
+}
+
+.container-startlogin {
+  margin-top: 100px;
+  margin-left: 70px;
+}
+
+.container-startlogin h3 {
+  margin-top: 25px;
+}
+
+.from-email {
+  margin-top: 30px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #222222;
+}
+
+.control-email {
+  position: absolute;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  width: 300px;
+  height: 30px;
+  margin-left: -39px;
+  margin-top: 25px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  color: #a5a5a5;
+}
+
+.form-password {
+  margin-top: 58px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 20px;
+  color: #222222;
+}
+
+.control-password {
+  position: absolute;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  border-radius: 2px;
+  width: 300px;
+  height: 30px;
+  margin-left: -65px;
+  margin-top: 25px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 18px;
+  color: #a5a5a5;
+}
+
+.button-sign {
+  position: absolute;
+  width: 308px;
+  height: 36px;
+  background: #0d28a6;
+  color: #ffffff;
+  margin-left: -5px;
+  margin-top: 8px;
+}
+
+.Account-Sign {
+  position: absolute;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.Account {
+  margin-top: 30px;
+  width: 148px;
+  height: 20px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  color: #000000;
+}
+
+.SignUp {
+  position: absolute;
+  width: 106px;
+  height: 20px;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 20px;
+  text-decoration-line: underline;
+  color: #0d28a6;
+  margin-left: 160px;
+  margin-top: -35px;
+}
